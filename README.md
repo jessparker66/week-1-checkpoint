@@ -5,7 +5,7 @@
 - Editor: VS Code
 - Git version: ( 2.56.0.windows.2)
 - Git name: (Jessica Davis)
-- Git email: (jessparker66@gmail.email)
+- Git email: (jessparker66@gmail.com)
 
 ## ACP log
 | # | What I changed | Commit message | Branch |
