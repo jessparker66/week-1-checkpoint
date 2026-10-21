@@ -18,3 +18,4 @@
 | 6 | Created My Goals section and edited format with 'br' and 'hr' | Added My Goals section and 'br'/'hr' edits | main |
 | 7 | Edited email address | Added Edited email address | main |
 | 8 | Created and css | Linked css | main |
+| 9 | Edited index.html & css | Added edits to index.html & css | main |
