@@ -19,3 +19,9 @@
 | 7 | Edited email address | Added Edited email address | main |
 | 8 | Created and css | Linked css | main |
 | 9 | Edited index.html & css | Added edits to index.html & css | main |
+| 10 | Created a sites I like section | Added the sites to the Sites I like section | main |
+| 11 | Created a images folder | Added a image to the images folder | main |
+| 12 | Edited the index.html | added image to the header | main |
+| 13 | Edited the index.html | Rearranged the order of the sections | main |
+| 14 | Edited the index.html | Added div containers and classes to the sections | main |
+| 15 | Updated the css | Added styling to the containers | main |
