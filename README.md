@@ -6,6 +6,7 @@
 - Git version: ( 2.56.0.windows.2)
 - Git name: (Jessica Davis)
 - Git email: (jessparker66@gmail.com)
+- Live site: (https://jessparker66.github.io/week-1-checkpoint/)
 
 ## ACP log
 | # | What I changed | Commit message | Branch |
@@ -25,3 +26,4 @@
 | 13 | Edited the index.html | Rearranged the order of the sections | main |
 | 14 | Edited the index.html | Added div containers and classes to the sections | main |
 | 15 | Updated the css | Added styling to the containers | main |
+| 16 | Set webpage to live | Updated ACP with live link | main |
