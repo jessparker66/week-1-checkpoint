@@ -27,3 +27,5 @@
 | 14 | Edited the index.html | Added div containers and classes to the sections | main |
 | 15 | Updated the css | Added styling to the containers | main |
 | 16 | Set webpage to live | Updated ACP with live link | main |
+| 17 | Deleted a folder | deleted a unintentionally made folder vscode | main |
+| 18 | Updated the index.html | Added a image citation to the footer | main |
